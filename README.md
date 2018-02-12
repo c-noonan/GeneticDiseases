@@ -1,4 +1,4 @@
-# GeneticDiseases
+# GeneticDiseases - An interactive genetic information tool
 
 ## Background and Overview
 
